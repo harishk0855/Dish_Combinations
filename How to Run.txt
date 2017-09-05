@@ -1,0 +1,10 @@
+1. Open terminal in linux/ubuntu (python 3.5v should be available)
+
+
+2. Go to the folder where the dish_combination folder is stored.
+	eg: cd xxxx
+
+
+3. Run the command
+	"Python find_dish_combos sample_data_ip.csv"
+
